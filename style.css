@@ -1,3 +1,48 @@
 body {
     background: lightpink;
+    background: url("https://i.pinimg.com/originals/c9/c1/2a/c9c12a565373c3bf97ad2ca6f32b8812.jpg");
+    background-repeat: no-repeat;
+    background-position: top;
+    margin: auto;
+    width: 20%;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
   }
+  img {
+    max-width: 100%;
+    height: auto;
+    opacity: 0.5;
+  }
+
+  .container {
+    width: 360%;
+  }
+
+  #inputField{
+    width: 200px;
+    height: 40px;
+    border: 1px solid gold;
+    outline: none;
+    font-size: 25px;
+    vertical-align: middle;
+  }
+
+  #addToCart {
+      height: 50px;
+      width: 50px;
+      border: 1px solid pink;
+      vertical-align: middle;
+      font-size: 10px;
+  }
+
+  .groceries {
+      margin-top: 25px;
+  }
+
+  .paragraph-styling {
+      margin: 0;
+      cursor: pointer;
+      font-size: 20px;
+  }
+
+
+  
